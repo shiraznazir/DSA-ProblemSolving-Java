@@ -1,1 +1,1 @@
-# DSA problem soving in java
+# DSA problem solving in java
